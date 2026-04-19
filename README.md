@@ -2,7 +2,7 @@
 
 I'm a non-CS background builder who got obsessed with AI and started shipping real products.
 
-## What I'm building
+## What I've Built
 
 ### ⚖️ LLM Council
 A multi-LLM document analysis engine that runs GPT-4o Mini, Claude Haiku, and Gemini Flash 
