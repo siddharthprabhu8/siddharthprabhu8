@@ -5,11 +5,14 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/Focus-AI%20Products%20%7C%20LLM%20Systems%20%7C%20Full--Stack-27DBFE?style=for-the-badge&labelColor=01030F" />
+
 </div>
 
 <p align="center">
-I enjoy turning advances in AI into products that solve real problems.
-My work sits at the intersection of <b>AI Product Management</b>, <b>LLM systems</b>,
+I build AI products that solve serious, real problems — for individuals and for businesses.
+My work sits at the intersection of <b>AI Product Management</b> and <b>LLM systems</b>,
+with a strong bias toward shipping, iterating, and learning in public.
 </p>
 
 <hr/>
@@ -106,8 +109,8 @@ The analysis covers marketplace dynamics, pricing, incentives, driver supply, ri
 ## 🛠️ Currently Building
 
 - 💰 **CostLens** — Open-source AI cost intelligence platform
-- 🧑‍💼 **Arcus** — AI-powered hiring platform
-- 🧠 AI product breakdowns and case studies
+- 🧠 **Arcus.Codes** — AI-native platform for building full-stack applications, with a built-in Judge Layer and Explainability Engine
+- 🧑‍💼 **Arcus Hires** — AI-native hiring agency matching businesses with vetted, interested, and pre-screened tech talent
 - ⚡ Open-source AI developer tools
 
 ## 🌱 Currently Exploring
@@ -153,10 +156,7 @@ My goal is to build AI products that make people **faster, smarter, and more eff
 
 <hr/>
 
-## 📈 Building in Public
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+📈 *Building in public — you can follow along on [LinkedIn](https://www.linkedin.com/in/siddharthprabhuk) or [X](https://x.com/SiddharthPrab08).*
 
 <hr/>
 
