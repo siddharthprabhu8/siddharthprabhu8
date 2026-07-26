@@ -5,14 +5,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-AI%20Products%20%7C%20LLM%20Systems%20%7C%20Full--Stack-27DBFE?style=for-the-badge&labelColor=01030F" />
-
 </div>
 
 <p align="center">
 I enjoy turning advances in AI into products that solve real problems.
 My work sits at the intersection of <b>AI Product Management</b>, <b>LLM systems</b>,
-and <b>full-stack engineering</b> — with a strong bias toward shipping, iterating, and learning in public.
 </p>
 
 <hr/>
